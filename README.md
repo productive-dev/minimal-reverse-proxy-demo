@@ -8,4 +8,8 @@ This application and its services are not production ready, and is not propely c
 
 ## Running
 
+To build the containers:
+`docker-compose build`
+
+To run the containers:
 `docker-compose up`
