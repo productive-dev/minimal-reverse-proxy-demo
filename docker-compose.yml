@@ -15,7 +15,7 @@ services:
     ports:
       - 80:80
 
-   # generates weather reports
+  # generates weather reports
   weather-report:
     image: weather-report
     container_name: weather-report
