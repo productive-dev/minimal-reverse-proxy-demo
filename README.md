@@ -1,4 +1,4 @@
-# A minimal nginx reverse proxy demo
+# Minimal nginx reverse proxy demo
 
 This repository contains a `docker-compose` orchestrated application with Flask and Vue services running behind an nginx reverse proxy.
 
@@ -13,3 +13,6 @@ To build the containers:
 
 To run the containers:
 `docker-compose up`
+
+## Oversimplified Diagram
+<img src="reverse proxy.png"/>
